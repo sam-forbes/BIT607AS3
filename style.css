@@ -1,0 +1,16 @@
+* { 
+    color: red; 
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Home Page  */
+
+#home-hero { 
+    width: 100%;
+    background-image: url(images/marco-lastella-V9EKaWLK4P.jpg);
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 500px; 
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
