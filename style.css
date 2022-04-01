@@ -1,6 +1,12 @@
-* { 
-    color: red; 
+.h1  { 
+    color: white; 
     font-family: 'Poppins', sans-serif;
+    font-size: 5em;
+}
+
+
+body { 
+    width: 100%;
 }
 
 /* Home Page  */
@@ -9,8 +15,16 @@
     width: 100%;
     background-image: url(images/marco-lastella-V9EKaWLK4P.jpg);
     background-color: #cccccc; /* Used if the image is unavailable */
-    height: 500px; 
+    height: 700px; 
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; /* Resize the background image to cover the entire container */
+    
+ 
+}
+
+.heading1 { 
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 5em;
 }
