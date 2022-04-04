@@ -1,3 +1,6 @@
+* { 
+    font-family: 'Poppins', sans-serif; 
+}
 .h1  { 
     color: white; 
     font-family: 'Poppins', sans-serif;
@@ -8,6 +11,17 @@
 body { 
     width: 100%;
 }
+
+
+
+}
+#footer { 
+    background-color: #30362F!important;
+    color: white;
+}
+
+
+
 
 /* Home Page  */
 
