@@ -115,3 +115,26 @@ input[type=text],[type=number],[type=email], select, textarea {
   #giftcardimg{ 
  width: 80%;
   }
+
+
+  /* 
+  ===============
+ Staff-Login.html
+  ===============
+  */
+
+@media only screen and (min-width:768px) { 
+#staff-signin { 
+    width: 500px;
+    margin: auto;
+  }
+  
+}
+  #staff-signin-body { 
+    background-image: url(images/brooke-lark-wMzx2nBdeng-unsplash.jpg);
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 700px; 
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  }
